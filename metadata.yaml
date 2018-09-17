@@ -1,6 +1,9 @@
 _repo: Scapinin-vehkeilyt-Kolminaytoksinen-komedia_52158
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les fourberies de Scapin. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52158#Scapinin-vehkeilyt-Kolminaytoksinen-komedia
 gutenberg_issued: '2016-05-25'
 gutenberg_type: Text
 identifiers:
